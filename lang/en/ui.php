@@ -1,0 +1,55 @@
+<?php
+return[
+    "announcements"=>"All our announcements",
+    "welcome"=>"Welcome to Infinity Code",
+    "create"=>"Create Announcements",
+    "all"=>"All Announcements",
+    "categories"=>"Categories",
+    "login"=>"Log in",
+    "sign"=>"Sign up",
+    "new"=>"New Announcement",
+    "reviewer"=>"Reviewer Zone",
+    "category"=>"Category",
+    "published"=>"Published",
+    "search"=>"Search",
+    "placeholder"=>"Search Announcements",
+    "work"=>"Work With Us",
+    "noNew"=>"No New Announcements To Review",
+    "title"=>"Title",
+    "description"=>"Description",
+    "price"=>"Price",
+    "author"=>"Author",
+    "view"=>"View",
+    "detail"=>"Announcement Details",
+    "noAnnouncements"=>"No Announcements",
+    "explore"=>"Explore This Category",
+    "remember"=>"Remember Me",
+    "password"=>"Password",
+    "confirm"=>"Confirm Password",
+    "name"=>"Username",
+    "select"=>"Select Category",
+    "delete"=>"Delete",
+    "becomerew"=>"Fill in the form to apply to become a Reviewer",
+    "toReview"=>"Here is the announcement to be reviewed",
+    "accept"=>"Accept",
+    "refuse"=>"Refuse",
+    "why"=>"Why would you like to become a reviewer?",
+    "confirmRev"=>"Become Riviewer",
+    "Antivirus"=>"Anti-Virus",
+    "Produttività"=>"Productivity",
+    "Grafica"=>"Graphics",
+    "IDE"=>"IDE",
+    "VideoGame"=>"Video Games",
+    "Sistemi Operativi"=>"Operating Systems",
+    "App iOS"=>"iOS App",
+    "Gestionali"=>"Management Programs",
+    "Corsi"=>"Courses",
+    "Altre App"=>"Other Apps",
+    "subtitle"=>"Let's discover the Code potential, to the Infinity and Beyond!"
+
+    
+
+
+
+
+];
